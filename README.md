@@ -1,2 +1,0 @@
-# mavenNsis
-Maven com instalador
